@@ -6,4 +6,4 @@ Simple JavaScript Project. Here i use HTML, Bootstrap and JavaScript.
 
 #### Test Promo Code: fahim20
 
-#### Live Site: https://fahimahammed.github.io/mac-book-pro/
+<h6><a href='https://fahimahammed.github.io/mac-book-pro/'>Live Site</a></h6>
